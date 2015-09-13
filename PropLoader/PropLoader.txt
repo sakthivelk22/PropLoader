@@ -1,1 +1,1 @@
-./Debug/main.o ./Debug/prop_loader.o   
+./Debug/main.cpp.o ./Debug/prop_loader.cpp.o   
